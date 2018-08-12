@@ -3,7 +3,6 @@
     "description": "sdd amazeui",
     "type": "library",
     "require-dev": {
-        "yiisoft/yii2-dev": "*"
     },
     "license": "MIT",
     "authors": [
