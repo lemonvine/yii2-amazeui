@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lemon\\amazeui\\": ""
+            "lemon\\yii2_amazeui\\": ""
         }
     }
 }
