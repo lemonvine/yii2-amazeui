@@ -1,22 +1,22 @@
 {
-    "name": "sdd8002/yii2-amazeui",
-    "description": "Amaze UI 是基于社区开源项目构建的一个跨屏前端框架。",
-    "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "name": "sdd80/yii2-amazeui",
+    "description": "sdd amazeui",
+    "type": "library",
+    "require-dev": {
+        "yiisoft/yii2-dev": "*"
+    },
     "license": "MIT",
     "authors": [
         {
-            "name": "Lemon",
+            "name": "lemon busy",
             "email": "sdd8002@163.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*",
-        "bower-asset/amazeui": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "lemon\\yii2_amazeui\\": ""
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {},
+  	"autoload": {
+    	"psr-4": {
+      		"lemon\\amazeui\\": "src/Lemon/Amazeui"
+    	}
+  	}
 }
