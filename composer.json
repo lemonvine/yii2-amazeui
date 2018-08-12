@@ -1,9 +1,7 @@
 {
     "name": "sdd8002/yii2-amazeui",
-    "description": "sdd amazeui",
-    "type": "yii2-extension",
-    "require-dev": {
-    },
+    "description": "lemon amazeui activeform",
+    "require-dev": {},
     "license": "MIT",
     "authors": [
         {
