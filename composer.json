@@ -3,13 +3,15 @@
     "description": "lemon amazeui activeform",
     "require-dev": {},
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "lemon busy",
             "email": "sdd8002@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=5.4"},
   	"autoload": {
     	"psr-4": {
       		"lemon\\amazeui\\": "src/Lemon/Amazeui"
