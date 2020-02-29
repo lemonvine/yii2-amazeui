@@ -1,22 +1,23 @@
 {
-    "name": "lemonvine/yii2-amazeui",
-    "description": "lemon amazeui",
-    "require-dev": {},
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "authors": [
-        {
-            "name": "lemon busy",
-            "email": "sdd8002@163.com"
-        }
-    ],
-    "require": {
-	"yiisoft/yii2" : "2.*",
-	"npm-asset/amazeui" : "2.*"
-    },
-    "autoload": {
-    	"psr-4": {
-      		"mango": ""
-    	}
-    }
+	"name": "lemonvine/yii2-amazeui",
+	"description": "lemon amazeui",
+	"license": "MIT",
+	"minimum-stability": "stable",
+	"keywords": [
+		"lemon"
+	],
+	"authors": [{
+			"name": "LemonWine",
+			"email": "sdd8002@163.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "2.*",
+		"npm-asset/amazeui": "2.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"mango": ""
+		}
+	}
 }
