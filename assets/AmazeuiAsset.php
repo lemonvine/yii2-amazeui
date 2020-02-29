@@ -2,12 +2,12 @@
 
 namespace mango\assets;
 
+use Yii;
 use yii\web\AssetBundle;
-
 
 class AmazeuiAsset extends AssetBundle
 {
-	public static $path = '@vendor/npm-asset/amazeui/dist';
+	public static $path = '@vendor/allmobilize/amazeui/dist';
 		
 	public function init()
 	{
