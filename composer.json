@@ -14,7 +14,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "2.*",
-		"npm-asset/amazeui": "2.*"
+		"npm-asset/amazeui": "*"
 	},
 	"autoload": {
 		"psr-4": {
