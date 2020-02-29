@@ -14,7 +14,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "2.*",
-		"amazeui/amazeui": "2.*"
+		"allmobilize/amazeui": "^2.7.0"
 	},
 	"autoload": {
 		"psr-4": {
