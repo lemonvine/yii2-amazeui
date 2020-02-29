@@ -1,6 +1,7 @@
 {
 	"name": "lemonvine/yii2-amazeui",
 	"description": "lemon amazeui",
+	"type" : "template",
 	"license": "MIT",
 	"minimum-stability": "stable",
 	"keywords": [
