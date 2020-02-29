@@ -1,6 +1,6 @@
 {
-    "name": "sdd8002/yii2-amazeui",
-    "description": "lemon amazeui activeform",
+    "name": "lemonvine/yii2-amazeui",
+    "description": "lemon amazeui",
     "require-dev": {},
     "license": "MIT",
     "minimum-stability": "stable",
@@ -12,11 +12,11 @@
     ],
     "require": {
 	"yiisoft/yii2" : "2.*",
-        "php": ">=5.4"
+	"npm-asset/amazeui" : "2.*"
     },
-  	"autoload": {
+    "autoload": {
     	"psr-4": {
       		"mango": ""
     	}
-  	}
+    }
 }
