@@ -8,7 +8,11 @@ use yii\web\AssetBundle;
 class AmazeuiAsset extends AssetBundle
 {
 	public static $path = '@vendor/allmobilize/amazeui/dist';
-		
+	
+	public $depends = [
+	    'yii\web\JqueryAsset',
+	];
+	
 	public function init()
 	{
 		$this->sourcePath = self::$path;
